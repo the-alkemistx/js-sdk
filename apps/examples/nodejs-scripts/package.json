@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@lightsparkdev/core": "1.2.7",
-    "@lightsparkdev/lightspark-sdk": "1.8.9",
+    "@lightsparkdev/lightspark-sdk": "0.1.6",
     "commander": "^11.0.0",
     "dayjs": "^1.11.7",
     "lodash-es": "^4.17.21"
