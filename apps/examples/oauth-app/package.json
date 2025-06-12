@@ -8,7 +8,7 @@
     "@emotion/styled": "^11.11.0",
     "@lightsparkdev/lightspark-sdk": "1.8.9",
     "@lightsparkdev/oauth": "*",
-    "@lightsparkdev/ui": "1.0.15",
+    "@lightsparkdev/ui": "1.1.3",
     "react": "^18.2.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "6.11.2",
