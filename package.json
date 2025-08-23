@@ -40,7 +40,7 @@
     "apps/examples/*"
   ],
   "dependencies": {
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.29.6",
     "@manypkg/cli": "^0.21.0",
     "@octokit/auth-action": "^4.0.1",
     "octokit": "^4.0.2",
